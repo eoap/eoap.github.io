@@ -9,7 +9,6 @@ on:
       # Only rebuild website when docs have changed
       - 'README.md'
       - 'eoap/**'
-      - 'mkdocs.yaml'
       - .github/**
 
 jobs:
@@ -24,4 +23,6 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-mermaid2-plugin
-      - run: mkdocs gh-deploy --force
+      - run: |
+          cd eoap
+          mkdocs gh-deploy --force
