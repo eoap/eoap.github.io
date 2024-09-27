@@ -105,4 +105,8 @@ plugins:
 
 # Navigation
 nav:
-  - index.md
+  - Introduction: index.md
+  - Repositories: repositories.md
+  - Additional Material:
+    - References: adds/references.md
+    - Tools: adds/tools.md
