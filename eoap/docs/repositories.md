@@ -1,34 +1,38 @@
 # Repositories 
 
-This project includes several repositories designed to provide guidance and training material for developing and executing Earth Observation (EO) Application Packages in compliance with OGC standards. 
+The repositories included in the EOAP project are: 
 
-The repositories aims to:
+* "Application Package and CWL as a solution for EO portability"
+* "Understanding STAC for input/output data modelling in EO Applications"
+* "Quickwin - A simple Application Package for getting started"
+* "Mastering EO Application Packaging with CWL"
+* "Quickwin - An Application Package with inline Python code"
+* "Open and reproducible EO Application Package"
+* "Inference with the EO Application Package"
 
-* help developers create EO applications using the Common Workflow Language (CWL)
-* provide an overview of the CWL, its key concepts
-* how to build a CWL-based EO application using practical examples in field guides
+In each repository section are provided badges for status and stability, along with links to the repository itself and its online documentation.
 
-### Application Package and CWL as a solution for Earth Observation portability
+## Application Package and CWL as a solution for Earth Observation portability
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
-This documentation provides an introduction to CWL as a solution for the portability of EO applications
+This documentation provides an introduction to CWL as a solution for the portability of EO applications.
 
 * Documentation available at: https://eoap.github.io/cwl-eoap/
 * Repository available at: https://github.com/eoap/cwl-eoap
 
-### Understanding STAC for input/output data modelling in Earth Observation Applications
+## Understanding STAC for input/output data modelling in Earth Observation Applications
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
-Documentation and notebooks for understanding the role of STAC as input/output data manifests in EO applications and a hands-on with real-life scenarios
+Documentation and notebooks for understanding the role of STAC as input/output data manifests in EO applications and a hands-on with real-life scenarios.
 
 * Documentation available at: https://eoap.github.io/stac-eoap/
 * Repository available at: https://github.com/eoap/stac-eoap
 
-### Quickwin - A simple Application Package for getting started
+## Quickwin - A simple Application Package for getting started
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
@@ -38,7 +42,7 @@ This tutorial is designed for developers, scientists, and EO enthusiasts who wan
 * Documentation available at: https://eoap.github.io/quickwin
 * Repository available at: https://github.com/eoap/quickwin 
 
-### Mastering Earth Observation Application Packaging with CWL
+## Mastering Earth Observation Application Packaging with CWL
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
@@ -48,7 +52,7 @@ This tutorial is designed for developers, scientists, and EO enthusiasts who wan
 * Documentation available at: https://eoap.github.io/mastering-app-package
 * Repository available at: https://github.com/eoap/mastering-app-package
 
-### Quickwin - An Application Package with inline Python code
+## Quickwin - An Application Package with inline Python code
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
@@ -58,7 +62,7 @@ This tutorial is designed for developers, scientists, and Earth observation enth
 * Documentation available at: https://eoap.github.io/quickwin-inline-code/
 * Repository available at: https://github.com/eoap/quickwin-inline-code
 
-### Open and reproducible EO Application Package
+## Open and reproducible EO Application Package
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
@@ -70,7 +74,7 @@ This short tutorial demonstrates how EO Application Packages meet these requirem
 * Documentation available at: https://eoap.github.io/open-reproducible-app-package
 * Repository available at: https://github.com/eoap/open-reproducible-app-package
 
-### Inference with the EO Application Package
+## Inference with the EO Application Package
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
