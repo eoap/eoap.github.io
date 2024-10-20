@@ -62,6 +62,16 @@ This tutorial is designed for developers, scientists, and Earth observation enth
 * Documentation available at: https://eoap.github.io/quickwin-inline-code/
 * Repository available at: https://github.com/eoap/quickwin-inline-code
 
+## OGC API Processes with ZOO Project
+
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
+
+This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to get acquainted with the ZOO-Project OGC API Processes implementation to deploy and run Application Packages as web services
+
+* Documentation available at: https://eoap.github.io/ogc-api-processes-with-zoo/
+* Repository available at: https://github.com/eoap/ogc-api-processes-with-zoo/
+
 ## Open and reproducible EO Application Package
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)

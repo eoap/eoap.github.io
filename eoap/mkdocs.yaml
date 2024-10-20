@@ -107,6 +107,7 @@ plugins:
 nav:
   - Introduction: index.md
   - Repositories: repositories.md
+  - Running the modules: dev-platform.md
   - Additional Material:
     - References: adds/references.md
     - Tools: adds/tools.md
